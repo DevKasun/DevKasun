@@ -31,6 +31,5 @@
 
 <br />
 
-💡 Fun facts:
-
-### "Think Outside the BOX!"
+### 💡 Fun facts:
+"Think Outside the BOX!"
