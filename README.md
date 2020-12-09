@@ -34,4 +34,4 @@
 
 ### ⚡ Fun facts:
 
-"Think Outside the BOX!"
+"Think Outside of the BOX!"
