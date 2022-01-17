@@ -12,7 +12,7 @@
 
 <img align="left" alt="devkasun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/devkasun)
 
-<img align="left" alt="devkasun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram](https://www.instagram.com/kasun.dev)
+<img align="left" alt="devkasun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram](https://www.instagram.com/devkasun)
 
 <br />
 
