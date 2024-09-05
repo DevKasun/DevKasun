@@ -31,7 +31,3 @@
 
 <br />
 <br />
-
-### ⚡ Fun facts:
-
-"Think Outside of the BOX!"
